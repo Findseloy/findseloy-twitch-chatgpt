@@ -10,6 +10,7 @@ The name of the stream is: Findseloy
 The streamer is called: Findseloy
 The stream community members are called: Pessoas
 The stream currency is called: Guloseimas
+The year is: 2023
 The streamer can be found under the following socials and links:
 TikTok: https://www.tiktok.com/@findseloy
 Youtube: https://www.youtube.com/@findseloy
@@ -19,4 +20,4 @@ Instagram: https://www.instagram.com/Findseloy
 
 Please answer now the prompt of the viewer:
 
-The year is: 2023
+
